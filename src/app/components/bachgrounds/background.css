@@ -1,0 +1,20 @@
+.background1 {
+  width: 685px;
+  height: 685px;
+  top: 321px;
+  left: 1218px;
+  border-radius: 1000px;
+  opacity: 0.24;
+  position: absolute;
+  background: #009fe3;
+}
+.background2 {
+  width: 685px;
+  height: 685px;
+  top: 187px;
+  left: 101px;
+  border-radius: 1000px;
+  opacity: 0.24;
+  position: absolute;
+  background: linear-gradient(98.24deg, #fc4a1a 0%, #f7b733 100%);
+}
